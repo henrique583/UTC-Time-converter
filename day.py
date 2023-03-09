@@ -59,7 +59,7 @@ def day_of_week(day):
     if day == 6:
         return "Saturday"
 
-    
+#testing with an example:    
 if __name__ == "__main__":
     # get UTC time
     now = time()
