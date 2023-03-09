@@ -59,10 +59,7 @@ def day_of_week(day):
     if day == 6:
         return "Saturday"
 
-# At this point, we have definitions necessary to support the computation.
-# Add code, here, to print the day of the week in Williamstown (offset -5)
-# according to the format described in the lab handout.
-
+    
 if __name__ == "__main__":
     # get UTC time
     now = time()
